@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**annevirginia1709-afk/annevirginia1709-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 🔭 Building clean, scalable & secure software<br>🤝 Open to collaborating on web & open-source projects<br>🛠️ Exploring real-world development & problem solving<br>🌱 Learning Full-Stack, Cloud & DevOps<br>💬 Ask me about JavaScript, Python, APIs & Web Development<br>⚡ Fun fact: Debugging is just detective work for developers 🕵️‍♂️
 
